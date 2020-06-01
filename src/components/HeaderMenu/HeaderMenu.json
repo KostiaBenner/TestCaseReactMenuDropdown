@@ -1,0 +1,39 @@
+[
+  {
+    "name": "button_1",
+    "text": "Кнопка 1",
+    "url": "/button_1",
+    "onclick": "function object",
+    "active": false,
+    "dropdown": [
+      {
+        "name": "button_4",
+        "text": "Кнопка 4",
+        "url": "/button_1/button_4",
+        "onclick": "function object"
+      },
+      {
+        "name": "button_5",
+        "text": "Кнопка 5",
+        "url": "/button_1/button_5",
+        "onclick": "function object"
+      }
+    ]
+  },
+  {
+    "name": "button_2",
+    "text": "Кнопка 2",
+    "url": "/button_2",
+    "active": false,
+    "dropdown": [],
+    "onclick": "function object"
+  },
+  {
+    "name": "button_3",
+    "text": "Кнопка 3",
+    "url": "/button_3",
+    "active": false,
+    "dropdown": [],
+    "onclick": "function object"
+  }
+]
